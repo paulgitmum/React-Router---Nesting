@@ -1,0 +1,13 @@
+.container {
+  /* background-color: lightblue; */
+  width: 90%;
+  margin: auto;
+}
+ul {
+    display: flex;
+}
+li {
+  margin-right: 2rem;
+  list-style-type: none;
+}
+
